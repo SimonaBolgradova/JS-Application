@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\01.Bus-Stop"
+		},
+		{
+			"path": "..\\02.Bus-Schedule"
+		},
+		{
+			"path": "..\\03.Forecaster"
+		},
+		{
+			"path": "..\\04.Locked-Profile"
+		},
+		{
+			"path": "..\\05. Accordion"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\server"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "06.Blog"
+	}
+}
